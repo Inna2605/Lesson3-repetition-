@@ -7,7 +7,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson3(repetition)", "Less
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson3.2", "Lesson3.2\Lesson3.2.vcxproj", "{BCA80170-34B9-4524-A6E0-13CD7F79527F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson 3.3", "..\Lesson 3.3\Lesson 3.3.vcxproj", "{B527FA2F-AB68-4FAF-8BD6-825531752DBC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson 3.3", "Lesson 3.3\Lesson 3.3.vcxproj", "{B527FA2F-AB68-4FAF-8BD6-825531752DBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
